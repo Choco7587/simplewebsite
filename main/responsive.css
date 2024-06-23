@@ -266,6 +266,24 @@
 
 @media (max-width: 320px){
 
+    .home-text{
+        position: absolute;
+        top: 13%;
+        left: 10%;
+        margin-bottom: 0rem;
+    }
+
+    .title{
+        font-size: 1rem;
+    }
+    
+    .home-text p{
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 1rem;
+    }
+    
+
     .navbar-brand{
         font-size: 10px;
     }
